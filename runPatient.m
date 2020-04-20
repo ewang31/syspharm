@@ -1,4 +1,4 @@
-function[T1,Y1,AUC,C_max,C_min] = runPatient(D0,dosageType)
+function[T1,Y1,AUC,C_max,C_min] = runPatient(V1,D0,dosageType)
        
     if(dosageType == "Gut")
         D_g = D0 * .3;
@@ -10,7 +10,7 @@ function[T1,Y1,AUC,C_max,C_min] = runPatient(D0,dosageType)
         error("Invalid variable name: dosageType");
     end
     %% Parameters that might change
-    V1 = 2.5; %Need to pass weight in here for this variable to change.
+    %V1 = 2.5; %Need to pass weight in here for this variable to change.
     
 
     %% Parameters that probably won't
@@ -34,32 +34,35 @@ function[T1,Y1,AUC,C_max,C_min] = runPatient(D0,dosageType)
     options = odeset('MaxStep',5e-2, 'AbsTol', 1e-5,'RelTol', 1e-5,'InitialStep', 1e-2);
     [T1,Y1] = ode45(@ldopa_eqns,[0 50],y0,options,p); % simulate model
     MassBal = ((Y1 * [1 V1 0 V2 0 1 1].') - (D_g+D_l))/(D_g+D_l);
+    if(max(MassBal) > 1e-5)
+        disp("Mass Balance Broken");
+    end
     AUC = trapz(T1,Y1(:,5));
     C_max = max(Y1(:,5));
     C_min = min(Y1(:,5));
 
-    figure;
-    subplot(2,2,1);
-    plot(T1,Y1(:,2));
-    title("L-dopa Central")
-    xlabel("Hours")
-    ylabel("nM");
-
-    subplot(2,2,2);
-    plot(T1,Y1(:,4));
-    title("L-dopa Brain")
-    xlabel("Hours")
-    ylabel("nM");
-
-    subplot(2,2,3);
-    plot(T1,Y1(:,5));
-    title("Dopamine Brain")
-    xlabel("Hours")
-    ylabel("nM");
-
-    subplot(2,2,4);
-    plot(T1,MassBal);
-    title("Mass Balance");
-    xlabel("Hours")
-    ylabel("Deviation");
+%     figure;
+%     subplot(2,2,1);
+%     plot(T1,Y1(:,2));
+%     title("L-dopa Central")
+%     xlabel("Hours")
+%     ylabel("nM");
+% 
+%     subplot(2,2,2);
+%     plot(T1,Y1(:,4));
+%     title("L-dopa Brain")
+%     xlabel("Hours")
+%     ylabel("nM");
+% 
+%     subplot(2,2,3);
+%     plot(T1,Y1(:,5));
+%     title("Dopamine Brain")
+%     xlabel("Hours")
+%     ylabel("nM");
+% 
+%     subplot(2,2,4);
+%     plot(T1,MassBal);
+%     title("Mass Balance");
+%     xlabel("Hours")
+%     ylabel("Deviation");
 end
