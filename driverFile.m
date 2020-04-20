@@ -1,5 +1,5 @@
 %% Generate Normally Distributed Pop
-numPatients = 10;
+numPatients = 2;
 
 [xdist,fig] = q1_starter(numPatients);
 
