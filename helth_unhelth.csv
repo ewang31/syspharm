@@ -1,0 +1,801 @@
+AUC,Weight,Gender,Health,Dosed
+20.9032,224.1042,Male,Diseased,Dosed
+17.0755,224.1042,Male,Diseased,Not Dosed
+79.9923,224.1042,Male,Healthy,Dosed
+103.5484,224.1042,Male,Healthy,Not Dosed
+35.8179,303.9123,Male,Diseased,Dosed
+19.0546,303.9123,Male,Diseased,Not Dosed
+86.3263,303.9123,Male,Healthy,Dosed
+87.7576,303.9123,Male,Healthy,Not Dosed
+40.0718,51.9228,Male,Diseased,Dosed
+12.121,51.9228,Male,Diseased,Not Dosed
+84.5843,51.9228,Male,Healthy,Dosed
+69.7131,51.9228,Male,Healthy,Not Dosed
+16.9526,244.084,Male,Diseased,Dosed
+19.5456,244.084,Male,Diseased,Not Dosed
+51.921,244.084,Male,Healthy,Dosed
+125.3369,244.084,Male,Healthy,Not Dosed
+35.0239,210.6264,Male,Diseased,Dosed
+19.1069,210.6264,Male,Diseased,Not Dosed
+84.829,210.6264,Male,Healthy,Dosed
+102.8169,210.6264,Male,Healthy,Not Dosed
+24.5174,110.4856,Male,Diseased,Dosed
+21.4506,110.4856,Male,Diseased,Not Dosed
+99.7475,110.4856,Male,Healthy,Dosed
+126.2702,110.4856,Male,Healthy,Not Dosed
+26.541,164.3037,Male,Diseased,Dosed
+0.038834,164.3037,Male,Diseased,Not Dosed
+66.7316,164.3037,Male,Healthy,Dosed
+82.1206,164.3037,Male,Healthy,Not Dosed
+26.1002,212.0954,Male,Diseased,Dosed
+30.5814,212.0954,Male,Diseased,Not Dosed
+139.1781,212.0954,Male,Healthy,Dosed
+79.9956,212.0954,Male,Healthy,Not Dosed
+16.3699,411.3219,Male,Diseased,Dosed
+22.636,411.3219,Male,Diseased,Not Dosed
+125.3064,411.3219,Male,Healthy,Dosed
+98.1907,411.3219,Male,Healthy,Not Dosed
+23.6945,361.5142,Male,Diseased,Dosed
+1.1837,361.5142,Male,Diseased,Not Dosed
+84.056,361.5142,Male,Healthy,Dosed
+68.61,361.5142,Male,Healthy,Not Dosed
+29.0688,107.8875,Male,Diseased,Dosed
+20.5625,107.8875,Male,Diseased,Not Dosed
+81.7308,107.8875,Male,Healthy,Dosed
+100.7117,107.8875,Male,Healthy,Not Dosed
+41.0884,377.8602,Male,Diseased,Dosed
+23.5455,377.8602,Male,Diseased,Not Dosed
+110.8385,377.8602,Male,Healthy,Dosed
+80.5561,377.8602,Male,Healthy,Not Dosed
+17.4959,235.6631,Male,Diseased,Dosed
+38.4361,235.6631,Male,Diseased,Not Dosed
+108.3075,235.6631,Male,Healthy,Dosed
+85.0606,235.6631,Male,Healthy,Not Dosed
+19.2404,187.1177,Male,Diseased,Dosed
+13.0626,187.1177,Male,Diseased,Not Dosed
+95.1157,187.1177,Male,Healthy,Dosed
+82.995,187.1177,Male,Healthy,Not Dosed
+18.133,235.0067,Male,Diseased,Dosed
+30.1831,235.0067,Male,Diseased,Not Dosed
+97.502,235.0067,Male,Healthy,Dosed
+78.6378,235.0067,Male,Healthy,Not Dosed
+23.3223,178.3802,Male,Diseased,Dosed
+22.0492,178.3802,Male,Diseased,Not Dosed
+70.6207,178.3802,Male,Healthy,Dosed
+114.1104,178.3802,Male,Healthy,Not Dosed
+24.2148,183.3564,Male,Diseased,Dosed
+7.3087,183.3564,Male,Diseased,Not Dosed
+76.4255,183.3564,Male,Healthy,Dosed
+73.2725,183.3564,Male,Healthy,Not Dosed
+19.6717,282.7207,Male,Diseased,Dosed
+30.6952,282.7207,Male,Diseased,Not Dosed
+93.5112,282.7207,Male,Healthy,Dosed
+78.3364,282.7207,Male,Healthy,Not Dosed
+14.3383,277.7543,Male,Diseased,Dosed
+9.7049,277.7543,Male,Diseased,Not Dosed
+80.6648,277.7543,Male,Healthy,Dosed
+74.5745,277.7543,Male,Healthy,Not Dosed
+26.1475,278.2565,Male,Diseased,Dosed
+18.3786,278.2565,Male,Diseased,Not Dosed
+87.2178,278.2565,Male,Healthy,Dosed
+98.456,278.2565,Male,Healthy,Not Dosed
+23.1126,232.3441,Male,Diseased,Dosed
+26.79,232.3441,Male,Diseased,Not Dosed
+91.3314,232.3441,Male,Healthy,Dosed
+83.9582,232.3441,Male,Healthy,Not Dosed
+24.6593,116.655,Male,Diseased,Dosed
+16.4036,116.655,Male,Diseased,Not Dosed
+85.4776,116.655,Male,Healthy,Dosed
+84.8896,116.655,Male,Healthy,Not Dosed
+24.7602,235.1604,Male,Diseased,Dosed
+17.8606,235.1604,Male,Diseased,Not Dosed
+71.4797,235.1604,Male,Healthy,Dosed
+106.9309,235.1604,Male,Healthy,Not Dosed
+24.9826,291.3736,Male,Diseased,Dosed
+28.6051,291.3736,Male,Diseased,Not Dosed
+105.9207,291.3736,Male,Healthy,Dosed
+98.6426,291.3736,Male,Healthy,Not Dosed
+28.8172,221.1012,Male,Diseased,Dosed
+12.1504,221.1012,Male,Diseased,Not Dosed
+73.9134,221.1012,Male,Healthy,Dosed
+104.4984,221.1012,Male,Healthy,Not Dosed
+20.9808,254.706,Male,Diseased,Dosed
+33.8684,254.706,Male,Diseased,Not Dosed
+99.0052,254.706,Male,Healthy,Dosed
+128.6176,254.706,Male,Healthy,Not Dosed
+20.1056,235.7543,Male,Diseased,Dosed
+1.3813,235.7543,Male,Diseased,Not Dosed
+85.4537,235.7543,Male,Healthy,Dosed
+115.0258,235.7543,Male,Healthy,Not Dosed
+26.1691,172.3171,Male,Diseased,Dosed
+17.3295,172.3171,Male,Diseased,Not Dosed
+84.4106,172.3171,Male,Healthy,Dosed
+81.6505,172.3171,Male,Healthy,Not Dosed
+23.6925,209.0937,Male,Diseased,Dosed
+39.2071,209.0937,Male,Diseased,Not Dosed
+94.2947,209.0937,Male,Healthy,Dosed
+91.6764,209.0937,Male,Healthy,Not Dosed
+11.5554,142.527,Male,Diseased,Dosed
+22.7875,142.527,Male,Diseased,Not Dosed
+82.8144,142.527,Male,Healthy,Dosed
+80.0045,142.527,Male,Healthy,Not Dosed
+32.8937,245.6985,Male,Diseased,Dosed
+10.0049,245.6985,Male,Diseased,Not Dosed
+79.0081,245.6985,Male,Healthy,Dosed
+82.0989,245.6985,Male,Healthy,Not Dosed
+5.6728,120.3749,Male,Diseased,Dosed
+28.5879,120.3749,Male,Diseased,Not Dosed
+107.7713,120.3749,Male,Healthy,Dosed
+75.8688,120.3749,Male,Healthy,Not Dosed
+21.5239,125.1896,Male,Diseased,Dosed
+57.5089,125.1896,Male,Diseased,Not Dosed
+84.4255,125.1896,Male,Healthy,Dosed
+97.8062,125.1896,Male,Healthy,Not Dosed
+31.5731,141.1592,Male,Diseased,Dosed
+38.2165,141.1592,Male,Diseased,Not Dosed
+108.5003,141.1592,Male,Healthy,Dosed
+87.108,141.1592,Male,Healthy,Not Dosed
+15.6185,242.7419,Male,Diseased,Dosed
+13.2341,242.7419,Male,Diseased,Not Dosed
+102.6195,242.7419,Male,Healthy,Dosed
+95.5354,242.7419,Male,Healthy,Not Dosed
+31.6454,279.5611,Male,Diseased,Dosed
+31.8866,279.5611,Male,Diseased,Not Dosed
+86.5078,279.5611,Male,Healthy,Dosed
+87.1102,279.5611,Male,Healthy,Not Dosed
+19.8966,211.022,Male,Diseased,Dosed
+26.6376,211.022,Male,Diseased,Not Dosed
+76.0435,211.022,Male,Healthy,Dosed
+100.1419,211.022,Male,Healthy,Not Dosed
+18.1779,144.5191,Male,Diseased,Dosed
+23.2953,144.5191,Male,Diseased,Not Dosed
+70.2382,144.5191,Male,Healthy,Dosed
+80.2671,144.5191,Male,Healthy,Not Dosed
+20.0207,275.3693,Male,Diseased,Dosed
+9.5026,275.3693,Male,Diseased,Not Dosed
+100.6954,275.3693,Male,Healthy,Dosed
+76.5699,275.3693,Male,Healthy,Not Dosed
+35.1855,85.6219,Male,Diseased,Dosed
+14.786,85.6219,Male,Diseased,Not Dosed
+90.3799,85.6219,Male,Healthy,Dosed
+84.1641,85.6219,Male,Healthy,Not Dosed
+26.8018,184.7049,Male,Diseased,Dosed
+19.1552,184.7049,Male,Diseased,Not Dosed
+72.7964,184.7049,Male,Healthy,Dosed
+86.9073,184.7049,Male,Healthy,Not Dosed
+17.5268,176.1341,Male,Diseased,Dosed
+34.8505,176.1341,Male,Diseased,Not Dosed
+98.7451,176.1341,Male,Healthy,Dosed
+76.3631,176.1341,Male,Healthy,Not Dosed
+41.331,210.6536,Male,Diseased,Dosed
+36.8348,210.6536,Male,Diseased,Not Dosed
+79.4576,210.6536,Male,Healthy,Dosed
+95.082,210.6536,Male,Healthy,Not Dosed
+40.6145,210.2627,Male,Diseased,Dosed
+15.2367,210.2627,Male,Diseased,Not Dosed
+78.0051,210.2627,Male,Healthy,Dosed
+92.5289,210.2627,Male,Healthy,Not Dosed
+18.6778,137.7493,Male,Diseased,Dosed
+14.8366,137.7493,Male,Diseased,Not Dosed
+83.512,137.7493,Male,Healthy,Dosed
+79.6616,137.7493,Male,Healthy,Not Dosed
+21.7688,189.1497,Male,Diseased,Dosed
+26.8725,189.1497,Male,Diseased,Not Dosed
+56.2509,189.1497,Male,Healthy,Dosed
+80.1787,189.1497,Male,Healthy,Not Dosed
+29.0465,180.8484,Male,Diseased,Dosed
+13.8859,180.8484,Male,Diseased,Not Dosed
+106.1195,180.8484,Male,Healthy,Dosed
+88.7346,180.8484,Male,Healthy,Not Dosed
+22.196,229.6479,Male,Diseased,Dosed
+18.9754,229.6479,Male,Diseased,Not Dosed
+91.6821,229.6479,Male,Healthy,Dosed
+101.1937,229.6479,Male,Healthy,Not Dosed
+29.9977,258.3124,Male,Diseased,Dosed
+47.3608,258.3124,Male,Diseased,Not Dosed
+122.8082,258.3124,Male,Healthy,Dosed
+65.0428,258.3124,Male,Healthy,Not Dosed
+14.3342,259.298,Male,Diseased,Dosed
+36.4649,259.298,Male,Diseased,Not Dosed
+82.7552,259.298,Male,Healthy,Dosed
+103.0376,259.298,Male,Healthy,Not Dosed
+24.3421,137.8249,Male,Diseased,Dosed
+21.475,137.8249,Male,Diseased,Not Dosed
+101.5767,137.8249,Male,Healthy,Dosed
+74.709,137.8249,Male,Healthy,Not Dosed
+18.2186,195.763,Male,Diseased,Dosed
+37.1463,195.763,Male,Diseased,Not Dosed
+97.6482,195.763,Male,Healthy,Dosed
+110.5978,195.763,Male,Healthy,Not Dosed
+40.678,116.2468,Male,Diseased,Dosed
+34.5027,116.2468,Male,Diseased,Not Dosed
+71.1429,116.2468,Male,Healthy,Dosed
+76.1348,116.2468,Male,Healthy,Not Dosed
+21.108,122.4418,Male,Diseased,Dosed
+22.314,122.4418,Male,Diseased,Not Dosed
+89.0685,122.4418,Male,Healthy,Dosed
+93.3871,122.4418,Male,Healthy,Not Dosed
+16.4094,190.5783,Male,Diseased,Dosed
+28.6425,190.5783,Male,Diseased,Not Dosed
+105.4273,190.5783,Male,Healthy,Dosed
+89.7017,190.5783,Male,Healthy,Not Dosed
+53.963,285.364,Male,Diseased,Dosed
+31.9884,285.364,Male,Diseased,Not Dosed
+88.6995,285.364,Male,Healthy,Dosed
+103.8642,285.364,Male,Healthy,Not Dosed
+29.2652,143.6117,Male,Diseased,Dosed
+25.7505,143.6117,Male,Diseased,Not Dosed
+70.928,143.6117,Male,Healthy,Dosed
+92.0362,143.6117,Male,Healthy,Not Dosed
+11.9427,213.8658,Male,Diseased,Dosed
+18.2787,213.8658,Male,Diseased,Not Dosed
+72.8734,213.8658,Male,Healthy,Dosed
+97.8516,213.8658,Male,Healthy,Not Dosed
+27.3319,177.1108,Male,Diseased,Dosed
+15.431,177.1108,Male,Diseased,Not Dosed
+74.3663,177.1108,Male,Healthy,Dosed
+81.3139,177.1108,Male,Healthy,Not Dosed
+15.5939,259.7956,Male,Diseased,Dosed
+29.8314,259.7956,Male,Diseased,Not Dosed
+75.0896,259.7956,Male,Healthy,Dosed
+95.4991,259.7956,Male,Healthy,Not Dosed
+20.2725,123.9463,Male,Diseased,Dosed
+23.6587,123.9463,Male,Diseased,Not Dosed
+79.6822,123.9463,Male,Healthy,Dosed
+72.178,123.9463,Male,Healthy,Not Dosed
+22.3764,193.0046,Male,Diseased,Dosed
+24.0998,193.0046,Male,Diseased,Not Dosed
+78.6544,193.0046,Male,Healthy,Dosed
+105.9656,193.0046,Male,Healthy,Not Dosed
+17.829,225.0191,Male,Diseased,Dosed
+24.8742,225.0191,Male,Diseased,Not Dosed
+68.1631,225.0191,Male,Healthy,Dosed
+114.3144,225.0191,Male,Healthy,Not Dosed
+20.8315,258.7646,Male,Diseased,Dosed
+22.5793,258.7646,Male,Diseased,Not Dosed
+91.5608,258.7646,Male,Healthy,Dosed
+94.6236,258.7646,Male,Healthy,Not Dosed
+6.5535,286.0771,Male,Diseased,Dosed
+10.0345,286.0771,Male,Diseased,Not Dosed
+78.8547,286.0771,Male,Healthy,Dosed
+75.9318,286.0771,Male,Healthy,Not Dosed
+33.5758,196.2908,Male,Diseased,Dosed
+14.5361,196.2908,Male,Diseased,Not Dosed
+87.8985,196.2908,Male,Healthy,Dosed
+105.6556,196.2908,Male,Healthy,Not Dosed
+35.6096,99.1628,Male,Diseased,Dosed
+14.4006,99.1628,Male,Diseased,Not Dosed
+93.2737,99.1628,Male,Healthy,Dosed
+79.1377,99.1628,Male,Healthy,Not Dosed
+22.7492,145.2965,Male,Diseased,Dosed
+6.2742,145.2965,Male,Diseased,Not Dosed
+99.2292,145.2965,Male,Healthy,Dosed
+88.2018,145.2965,Male,Healthy,Not Dosed
+17.8155,125.6384,Male,Diseased,Dosed
+45.6596,125.6384,Male,Diseased,Not Dosed
+65.8804,125.6384,Male,Healthy,Dosed
+97.0501,125.6384,Male,Healthy,Not Dosed
+15.7777,335.7177,Male,Diseased,Dosed
+53.7115,335.7177,Male,Diseased,Not Dosed
+68.6368,335.7177,Male,Healthy,Dosed
+96.0929,335.7177,Male,Healthy,Not Dosed
+6.6671,153.0974,Male,Diseased,Dosed
+23.4321,153.0974,Male,Diseased,Not Dosed
+93.9653,153.0974,Male,Healthy,Dosed
+95.9842,153.0974,Male,Healthy,Not Dosed
+39.0351,237.0591,Male,Diseased,Dosed
+25.2231,237.0591,Male,Diseased,Not Dosed
+82.1735,237.0591,Male,Healthy,Dosed
+110.8067,237.0591,Male,Healthy,Not Dosed
+22.8729,179.1528,Male,Diseased,Dosed
+28.6389,179.1528,Male,Diseased,Not Dosed
+80.989,179.1528,Male,Healthy,Dosed
+94.1404,179.1528,Male,Healthy,Not Dosed
+13.5971,245.7117,Male,Diseased,Dosed
+17.7381,245.7117,Male,Diseased,Not Dosed
+73.3955,245.7117,Male,Healthy,Dosed
+115.3006,245.7117,Male,Healthy,Not Dosed
+17.3932,143.9082,Male,Diseased,Dosed
+23.8008,143.9082,Male,Diseased,Not Dosed
+88.59,143.9082,Male,Healthy,Dosed
+91.6018,143.9082,Male,Healthy,Not Dosed
+25.4766,104.6623,Male,Diseased,Dosed
+47.5565,104.6623,Male,Diseased,Not Dosed
+73.0662,104.6623,Male,Healthy,Dosed
+71.4545,104.6623,Male,Healthy,Not Dosed
+20.9689,103.4243,Male,Diseased,Dosed
+31.0543,103.4243,Male,Diseased,Not Dosed
+102.1778,103.4243,Male,Healthy,Dosed
+74.5439,103.4243,Male,Healthy,Not Dosed
+25.0183,221.0581,Male,Diseased,Dosed
+24.4028,221.0581,Male,Diseased,Not Dosed
+85.7055,221.0581,Male,Healthy,Dosed
+84.0305,221.0581,Male,Healthy,Not Dosed
+17.5277,180.079,Male,Diseased,Dosed
+40.0317,180.079,Male,Diseased,Not Dosed
+78.8986,180.079,Male,Healthy,Dosed
+96.7589,180.079,Male,Healthy,Not Dosed
+34.8442,178.929,Male,Diseased,Dosed
+22.0942,178.929,Male,Diseased,Not Dosed
+83.9497,178.929,Male,Healthy,Dosed
+82.0321,178.929,Male,Healthy,Not Dosed
+21.5946,278.3869,Male,Diseased,Dosed
+29.6264,278.3869,Male,Diseased,Not Dosed
+112.9637,278.3869,Male,Healthy,Dosed
+74.2856,278.3869,Male,Healthy,Not Dosed
+24.7562,208.9528,Male,Diseased,Dosed
+21.514,208.9528,Male,Diseased,Not Dosed
+96.4621,208.9528,Male,Healthy,Dosed
+115.3734,208.9528,Male,Healthy,Not Dosed
+17.9609,203.1792,Male,Diseased,Dosed
+43.8291,203.1792,Male,Diseased,Not Dosed
+90.6921,203.1792,Male,Healthy,Dosed
+77.6935,203.1792,Male,Healthy,Not Dosed
+21.6172,288.7546,Male,Diseased,Dosed
+26.2712,288.7546,Male,Diseased,Not Dosed
+85.111,288.7546,Male,Healthy,Dosed
+77.7252,288.7546,Male,Healthy,Not Dosed
+31.5027,141.469,Male,Diseased,Dosed
+21.1334,141.469,Male,Diseased,Not Dosed
+73.6183,141.469,Male,Healthy,Dosed
+106.2135,141.469,Male,Healthy,Not Dosed
+28.1896,233.8912,Male,Diseased,Dosed
+12.4561,233.8912,Male,Diseased,Not Dosed
+91.5811,233.8912,Male,Healthy,Dosed
+101.7348,233.8912,Male,Healthy,Not Dosed
+13.5948,242.4164,Male,Diseased,Dosed
+24.2637,242.4164,Male,Diseased,Not Dosed
+62.6766,242.4164,Male,Healthy,Dosed
+91.7189,242.4164,Male,Healthy,Not Dosed
+32.0637,175.9945,Male,Diseased,Dosed
+26.9263,175.9945,Male,Diseased,Not Dosed
+85.7444,175.9945,Male,Healthy,Dosed
+70.2855,175.9945,Male,Healthy,Not Dosed
+27.8234,204.2788,Male,Diseased,Dosed
+29.4197,204.2788,Male,Diseased,Not Dosed
+86.7659,204.2788,Male,Healthy,Dosed
+91.9275,204.2788,Male,Healthy,Not Dosed
+26.2004,119.219,Male,Diseased,Dosed
+17.1128,119.219,Male,Diseased,Not Dosed
+87.7697,119.219,Male,Healthy,Dosed
+99.4071,119.219,Male,Healthy,Not Dosed
+15.8515,120.3205,Male,Diseased,Dosed
+28.5376,120.3205,Male,Diseased,Not Dosed
+77.8212,120.3205,Male,Healthy,Dosed
+103.3382,120.3205,Male,Healthy,Not Dosed
+17.3404,197.4571,Male,Diseased,Dosed
+46.3512,197.4571,Male,Diseased,Not Dosed
+82.6655,197.4571,Male,Healthy,Dosed
+70.3312,197.4571,Male,Healthy,Not Dosed
+43.1861,235.4692,Male,Diseased,Dosed
+7.8792,235.4692,Male,Diseased,Not Dosed
+86.5759,235.4692,Male,Healthy,Dosed
+105.8187,235.4692,Male,Healthy,Not Dosed
+40.546,350.1887,Male,Diseased,Dosed
+27.5263,350.1887,Male,Diseased,Not Dosed
+75.6587,350.1887,Male,Healthy,Dosed
+123.6225,350.1887,Male,Healthy,Not Dosed
+21.7157,149.9395,Male,Diseased,Dosed
+19.2278,149.9395,Male,Diseased,Not Dosed
+97.0558,149.9395,Male,Healthy,Dosed
+82.6939,149.9395,Male,Healthy,Not Dosed
+32.3553,202.534,Male,Diseased,Dosed
+14.5274,202.534,Male,Diseased,Not Dosed
+93.1067,202.534,Male,Healthy,Dosed
+74.3968,202.534,Male,Healthy,Not Dosed
+25.8117,185.9208,Male,Diseased,Dosed
+25.446,185.9208,Male,Diseased,Not Dosed
+76.1286,185.9208,Male,Healthy,Dosed
+102.0777,185.9208,Male,Healthy,Not Dosed
+13.0724,71.9838,Male,Diseased,Dosed
+27.7516,71.9838,Male,Diseased,Not Dosed
+84.6661,71.9838,Male,Healthy,Dosed
+84.2417,71.9838,Male,Healthy,Not Dosed
+37.6502,163.9729,Male,Diseased,Dosed
+16.4477,163.9729,Male,Diseased,Not Dosed
+93.0021,163.9729,Male,Healthy,Dosed
+93.1511,163.9729,Male,Healthy,Not Dosed
+18.5311,80.5016,Male,Diseased,Dosed
+11.0052,80.5016,Male,Diseased,Not Dosed
+81.0513,80.5016,Male,Healthy,Dosed
+82.6076,80.5016,Male,Healthy,Not Dosed
+31.0397,104.5177,Female,Diseased,Dosed
+25.5546,104.5177,Female,Diseased,Not Dosed
+112.3254,104.5177,Female,Healthy,Dosed
+87.7838,104.5177,Female,Healthy,Not Dosed
+10.2761,171.0382,Female,Diseased,Dosed
+27.2599,171.0382,Female,Diseased,Not Dosed
+100.4234,171.0382,Female,Healthy,Dosed
+80.379,171.0382,Female,Healthy,Not Dosed
+25.6159,127.6423,Female,Diseased,Dosed
+28.2691,127.6423,Female,Diseased,Not Dosed
+82.7328,127.6423,Female,Healthy,Dosed
+82.7057,127.6423,Female,Healthy,Not Dosed
+33.8321,184.733,Female,Diseased,Dosed
+45.8639,184.733,Female,Diseased,Not Dosed
+66.5529,184.733,Female,Healthy,Dosed
+111.2592,184.733,Female,Healthy,Not Dosed
+36.2701,123.886,Female,Diseased,Dosed
+28.1349,123.886,Female,Diseased,Not Dosed
+97.3758,123.886,Female,Healthy,Dosed
+117.0851,123.886,Female,Healthy,Not Dosed
+27.4939,197.2845,Female,Diseased,Dosed
+28.0614,197.2845,Female,Diseased,Not Dosed
+112.3916,197.2845,Female,Healthy,Dosed
+80.6552,197.2845,Female,Healthy,Not Dosed
+60.6402,214.0739,Female,Diseased,Dosed
+16.1776,214.0739,Female,Diseased,Not Dosed
+122.2462,214.0739,Female,Healthy,Dosed
+63.5999,214.0739,Female,Healthy,Not Dosed
+28.6315,279.5443,Female,Diseased,Dosed
+11.3319,279.5443,Female,Diseased,Not Dosed
+80.7687,279.5443,Female,Healthy,Dosed
+64.1646,279.5443,Female,Healthy,Not Dosed
+16.7127,151.2316,Female,Diseased,Dosed
+29.9137,151.2316,Female,Diseased,Not Dosed
+99.0221,151.2316,Female,Healthy,Dosed
+91.4382,151.2316,Female,Healthy,Not Dosed
+58.5742,94.976,Female,Diseased,Dosed
+18.4499,94.976,Female,Diseased,Not Dosed
+86.3667,94.976,Female,Healthy,Dosed
+75.6874,94.976,Female,Healthy,Not Dosed
+16.4776,107.7789,Female,Diseased,Dosed
+15.1868,107.7789,Female,Diseased,Not Dosed
+74.2044,107.7789,Female,Healthy,Dosed
+99.5982,107.7789,Female,Healthy,Not Dosed
+32.2653,255.4913,Female,Diseased,Dosed
+31.834,255.4913,Female,Diseased,Not Dosed
+104.3608,255.4913,Female,Healthy,Dosed
+85.7318,255.4913,Female,Healthy,Not Dosed
+25.2406,92.1225,Female,Diseased,Dosed
+13.1818,92.1225,Female,Diseased,Not Dosed
+77.9978,92.1225,Female,Healthy,Dosed
+95.8061,92.1225,Female,Healthy,Not Dosed
+27.5239,228.9914,Female,Diseased,Dosed
+21.6166,228.9914,Female,Diseased,Not Dosed
+103.5173,228.9914,Female,Healthy,Dosed
+74.2695,228.9914,Female,Healthy,Not Dosed
+25.1378,172.651,Female,Diseased,Dosed
+31.6368,172.651,Female,Diseased,Not Dosed
+82.3034,172.651,Female,Healthy,Dosed
+85.8844,172.651,Female,Healthy,Not Dosed
+23.8467,261.0184,Female,Diseased,Dosed
+18.1719,261.0184,Female,Diseased,Not Dosed
+141.5931,261.0184,Female,Healthy,Dosed
+80.9568,261.0184,Female,Healthy,Not Dosed
+21.9374,228.2016,Female,Diseased,Dosed
+9.2611,228.2016,Female,Diseased,Not Dosed
+69.2592,228.2016,Female,Healthy,Dosed
+100.8336,228.2016,Female,Healthy,Not Dosed
+25.5588,150.991,Female,Diseased,Dosed
+18.7761,150.991,Female,Diseased,Not Dosed
+95.4102,150.991,Female,Healthy,Dosed
+119.2282,150.991,Female,Healthy,Not Dosed
+26.8991,82.9878,Female,Diseased,Dosed
+18.943,82.9878,Female,Diseased,Not Dosed
+73.9924,82.9878,Female,Healthy,Dosed
+81.2271,82.9878,Female,Healthy,Not Dosed
+29.0624,360.0671,Female,Diseased,Dosed
+3.8209,360.0671,Female,Diseased,Not Dosed
+81.8716,360.0671,Female,Healthy,Dosed
+81.4534,360.0671,Female,Healthy,Not Dosed
+4.0196,219.8537,Female,Diseased,Dosed
+23.401,219.8537,Female,Diseased,Not Dosed
+106.82,219.8537,Female,Healthy,Dosed
+96.2313,219.8537,Female,Healthy,Not Dosed
+27.2576,257.1324,Female,Diseased,Dosed
+21.498,257.1324,Female,Diseased,Not Dosed
+88.6158,257.1324,Female,Healthy,Dosed
+76.6712,257.1324,Female,Healthy,Not Dosed
+22.4042,93.0633,Female,Diseased,Dosed
+19.305,93.0633,Female,Diseased,Not Dosed
+108.6615,93.0633,Female,Healthy,Dosed
+92.5424,93.0633,Female,Healthy,Not Dosed
+30.954,132.7528,Female,Diseased,Dosed
+11.4632,132.7528,Female,Diseased,Not Dosed
+123.1584,132.7528,Female,Healthy,Dosed
+83.6426,132.7528,Female,Healthy,Not Dosed
+20.5598,145.9574,Female,Diseased,Dosed
+11.1513,145.9574,Female,Diseased,Not Dosed
+74.4537,145.9574,Female,Healthy,Dosed
+99.8374,145.9574,Female,Healthy,Not Dosed
+25.372,238.2459,Female,Diseased,Dosed
+20.9707,238.2459,Female,Diseased,Not Dosed
+73.1418,238.2459,Female,Healthy,Dosed
+137.452,238.2459,Female,Healthy,Not Dosed
+18.6336,145.5937,Female,Diseased,Dosed
+24.2913,145.5937,Female,Diseased,Not Dosed
+81.7684,145.5937,Female,Healthy,Dosed
+107.0215,145.5937,Female,Healthy,Not Dosed
+16.6089,211.5278,Female,Diseased,Dosed
+20.7634,211.5278,Female,Diseased,Not Dosed
+131.2435,211.5278,Female,Healthy,Dosed
+101.3411,211.5278,Female,Healthy,Not Dosed
+22.4018,184.9714,Female,Diseased,Dosed
+18.2044,184.9714,Female,Diseased,Not Dosed
+108.7952,184.9714,Female,Healthy,Dosed
+74.1782,184.9714,Female,Healthy,Not Dosed
+35.9579,140.4788,Female,Diseased,Dosed
+21.7732,140.4788,Female,Diseased,Not Dosed
+96.6152,140.4788,Female,Healthy,Dosed
+114.6006,140.4788,Female,Healthy,Not Dosed
+18.4283,108.8562,Female,Diseased,Dosed
+13.986,108.8562,Female,Diseased,Not Dosed
+85.3151,108.8562,Female,Healthy,Dosed
+96.1554,108.8562,Female,Healthy,Not Dosed
+20.0946,58.1325,Female,Diseased,Dosed
+21.358,58.1325,Female,Diseased,Not Dosed
+64.8594,58.1325,Female,Healthy,Dosed
+84.766,58.1325,Female,Healthy,Not Dosed
+2.822,198.4969,Female,Diseased,Dosed
+32.35,198.4969,Female,Diseased,Not Dosed
+114.7448,198.4969,Female,Healthy,Dosed
+112.935,198.4969,Female,Healthy,Not Dosed
+16.7776,183.2832,Female,Diseased,Dosed
+5.2742,183.2832,Female,Diseased,Not Dosed
+117.1557,183.2832,Female,Healthy,Dosed
+58.3189,183.2832,Female,Healthy,Not Dosed
+24.8616,166.5539,Female,Diseased,Dosed
+50.8086,166.5539,Female,Diseased,Not Dosed
+80.1876,166.5539,Female,Healthy,Dosed
+81.9364,166.5539,Female,Healthy,Not Dosed
+11.4659,74.5168,Female,Diseased,Dosed
+20.3909,74.5168,Female,Diseased,Not Dosed
+89.4512,74.5168,Female,Healthy,Dosed
+91.7069,74.5168,Female,Healthy,Not Dosed
+36.2983,240.2028,Female,Diseased,Dosed
+25.7313,240.2028,Female,Diseased,Not Dosed
+115.8273,240.2028,Female,Healthy,Dosed
+68.8639,240.2028,Female,Healthy,Not Dosed
+25.3024,187.8741,Female,Diseased,Dosed
+11.4788,187.8741,Female,Diseased,Not Dosed
+87.4225,187.8741,Female,Healthy,Dosed
+73.7541,187.8741,Female,Healthy,Not Dosed
+34.0699,144.1669,Female,Diseased,Dosed
+32.7344,144.1669,Female,Diseased,Not Dosed
+83.4082,144.1669,Female,Healthy,Dosed
+83.7945,144.1669,Female,Healthy,Not Dosed
+31.118,165.8409,Female,Diseased,Dosed
+31.0814,165.8409,Female,Diseased,Not Dosed
+82.0656,165.8409,Female,Healthy,Dosed
+107.1779,165.8409,Female,Healthy,Not Dosed
+14.4139,146.6625,Female,Diseased,Dosed
+27.0794,146.6625,Female,Diseased,Not Dosed
+70.8843,146.6625,Female,Healthy,Dosed
+86.6282,146.6625,Female,Healthy,Not Dosed
+24.1488,173.4,Female,Diseased,Dosed
+14.6446,173.4,Female,Diseased,Not Dosed
+90.9905,173.4,Female,Healthy,Dosed
+107.0898,173.4,Female,Healthy,Not Dosed
+33.2179,145.07,Female,Diseased,Dosed
+24.689,145.07,Female,Diseased,Not Dosed
+71.4259,145.07,Female,Healthy,Dosed
+89.7555,145.07,Female,Healthy,Not Dosed
+6.5861,108.3324,Female,Diseased,Dosed
+26.5608,108.3324,Female,Diseased,Not Dosed
+73.6145,108.3324,Female,Healthy,Dosed
+97.7421,108.3324,Female,Healthy,Not Dosed
+20.7757,98.3798,Female,Diseased,Dosed
+3.3494,98.3798,Female,Diseased,Not Dosed
+67.4123,98.3798,Female,Healthy,Dosed
+85.4006,98.3798,Female,Healthy,Not Dosed
+22.4427,86.451,Female,Diseased,Dosed
+26.3124,86.451,Female,Diseased,Not Dosed
+90.5985,86.451,Female,Healthy,Dosed
+103.5374,86.451,Female,Healthy,Not Dosed
+24.7993,128.3809,Female,Diseased,Dosed
+25.9519,128.3809,Female,Diseased,Not Dosed
+92.028,128.3809,Female,Healthy,Dosed
+82.3495,128.3809,Female,Healthy,Not Dosed
+35.5057,198.9864,Female,Diseased,Dosed
+24.4967,198.9864,Female,Diseased,Not Dosed
+80.4161,198.9864,Female,Healthy,Dosed
+83.4467,198.9864,Female,Healthy,Not Dosed
+42.5636,229.2119,Female,Diseased,Dosed
+15.436,229.2119,Female,Diseased,Not Dosed
+92.6626,229.2119,Female,Healthy,Dosed
+95.5275,229.2119,Female,Healthy,Not Dosed
+5.4323,199.3104,Female,Diseased,Dosed
+11.6559,199.3104,Female,Diseased,Not Dosed
+97.1708,199.3104,Female,Healthy,Dosed
+75.5942,199.3104,Female,Healthy,Not Dosed
+18.8685,162.9517,Female,Diseased,Dosed
+14.6212,162.9517,Female,Diseased,Not Dosed
+107.5234,162.9517,Female,Healthy,Dosed
+93.3312,162.9517,Female,Healthy,Not Dosed
+20.4801,161.9592,Female,Diseased,Dosed
+29.7739,161.9592,Female,Diseased,Not Dosed
+78.304,161.9592,Female,Healthy,Dosed
+69.9997,161.9592,Female,Healthy,Not Dosed
+22.046,110.5676,Female,Diseased,Dosed
+6.5366,110.5676,Female,Diseased,Not Dosed
+67.8079,110.5676,Female,Healthy,Dosed
+84.3169,110.5676,Female,Healthy,Not Dosed
+30.285,232.8779,Female,Diseased,Dosed
+34.3289,232.8779,Female,Diseased,Not Dosed
+96.8496,232.8779,Female,Healthy,Dosed
+68.0916,232.8779,Female,Healthy,Not Dosed
+15.314,155.3318,Female,Diseased,Dosed
+15.082,155.3318,Female,Diseased,Not Dosed
+108.6521,155.3318,Female,Healthy,Dosed
+74.971,155.3318,Female,Healthy,Not Dosed
+11.2263,116.1978,Female,Diseased,Dosed
+31.3325,116.1978,Female,Diseased,Not Dosed
+76.6667,116.1978,Female,Healthy,Dosed
+97.2179,116.1978,Female,Healthy,Not Dosed
+18.9284,255.2753,Female,Diseased,Dosed
+16.5546,255.2753,Female,Diseased,Not Dosed
+72.1478,255.2753,Female,Healthy,Dosed
+93.3971,255.2753,Female,Healthy,Not Dosed
+18.8079,149.1684,Female,Diseased,Dosed
+35.2662,149.1684,Female,Diseased,Not Dosed
+79.5546,149.1684,Female,Healthy,Dosed
+134.52,149.1684,Female,Healthy,Not Dosed
+16.2667,124.6466,Female,Diseased,Dosed
+27.6303,124.6466,Female,Diseased,Not Dosed
+77.6901,124.6466,Female,Healthy,Dosed
+75.4189,124.6466,Female,Healthy,Not Dosed
+25.0877,144.5245,Female,Diseased,Dosed
+31.0511,144.5245,Female,Diseased,Not Dosed
+99.3737,144.5245,Female,Healthy,Dosed
+82.3367,144.5245,Female,Healthy,Not Dosed
+54.298,107.2176,Female,Diseased,Dosed
+3.5303,107.2176,Female,Diseased,Not Dosed
+86.3295,107.2176,Female,Healthy,Dosed
+71.3677,107.2176,Female,Healthy,Not Dosed
+20.9053,88.893,Female,Diseased,Dosed
+25.0885,88.893,Female,Diseased,Not Dosed
+97.676,88.893,Female,Healthy,Dosed
+83.6737,88.893,Female,Healthy,Not Dosed
+17.5743,334.3503,Female,Diseased,Dosed
+21.7607,334.3503,Female,Diseased,Not Dosed
+91.8816,334.3503,Female,Healthy,Dosed
+105.0683,334.3503,Female,Healthy,Not Dosed
+34.3382,275.7481,Female,Diseased,Dosed
+27.8525,275.7481,Female,Diseased,Not Dosed
+113.0622,275.7481,Female,Healthy,Dosed
+78.1282,275.7481,Female,Healthy,Not Dosed
+26.7409,185.0033,Female,Diseased,Dosed
+-2.5551,185.0033,Female,Diseased,Not Dosed
+98.6187,185.0033,Female,Healthy,Dosed
+97.0458,185.0033,Female,Healthy,Not Dosed
+40.3969,79.6708,Female,Diseased,Dosed
+24.9774,79.6708,Female,Diseased,Not Dosed
+93.9983,79.6708,Female,Healthy,Dosed
+78.4576,79.6708,Female,Healthy,Not Dosed
+40.2346,106.0367,Female,Diseased,Dosed
+10.3424,106.0367,Female,Diseased,Not Dosed
+80.613,106.0367,Female,Healthy,Dosed
+84.2931,106.0367,Female,Healthy,Not Dosed
+26.2391,152.4157,Female,Diseased,Dosed
+29.47,152.4157,Female,Diseased,Not Dosed
+97.8802,152.4157,Female,Healthy,Dosed
+70.2932,152.4157,Female,Healthy,Not Dosed
+31.0325,217.5781,Female,Diseased,Dosed
+19.9411,217.5781,Female,Diseased,Not Dosed
+70.7974,217.5781,Female,Healthy,Dosed
+100.1364,217.5781,Female,Healthy,Not Dosed
+33.1337,74.6295,Female,Diseased,Dosed
+14.9648,74.6295,Female,Diseased,Not Dosed
+91.194,74.6295,Female,Healthy,Dosed
+76.6144,74.6295,Female,Healthy,Not Dosed
+26.8769,181.8979,Female,Diseased,Dosed
+12.7269,181.8979,Female,Diseased,Not Dosed
+69.7679,181.8979,Female,Healthy,Dosed
+71.2829,181.8979,Female,Healthy,Not Dosed
+46.0962,66.7468,Female,Diseased,Dosed
+27.9327,66.7468,Female,Diseased,Not Dosed
+89.313,66.7468,Female,Healthy,Dosed
+94.6767,66.7468,Female,Healthy,Not Dosed
+34.0755,186.7519,Female,Diseased,Dosed
+17.5933,186.7519,Female,Diseased,Not Dosed
+71.1208,186.7519,Female,Healthy,Dosed
+68.1991,186.7519,Female,Healthy,Not Dosed
+29.8431,190.6459,Female,Diseased,Dosed
+6.7336,190.6459,Female,Diseased,Not Dosed
+120.4597,190.6459,Female,Healthy,Dosed
+107.4789,190.6459,Female,Healthy,Not Dosed
+33.9409,194.7071,Female,Diseased,Dosed
+17.2944,194.7071,Female,Diseased,Not Dosed
+110.2338,194.7071,Female,Healthy,Dosed
+116.5292,194.7071,Female,Healthy,Not Dosed
+17.4126,155.5292,Female,Diseased,Dosed
+22.2688,155.5292,Female,Diseased,Not Dosed
+103.7379,155.5292,Female,Healthy,Dosed
+107.5435,155.5292,Female,Healthy,Not Dosed
+18.3064,176.6659,Female,Diseased,Dosed
+16.7925,176.6659,Female,Diseased,Not Dosed
+87.3143,176.6659,Female,Healthy,Dosed
+102.0827,176.6659,Female,Healthy,Not Dosed
+20.4525,132.2454,Female,Diseased,Dosed
+26.0472,132.2454,Female,Diseased,Not Dosed
+80.9595,132.2454,Female,Healthy,Dosed
+94.2473,132.2454,Female,Healthy,Not Dosed
+22.9275,222.3313,Female,Diseased,Dosed
+14.312,222.3313,Female,Diseased,Not Dosed
+79.2842,222.3313,Female,Healthy,Dosed
+77.1507,222.3313,Female,Healthy,Not Dosed
+22.7773,72.6307,Female,Diseased,Dosed
+19.1986,72.6307,Female,Diseased,Not Dosed
+82.4572,72.6307,Female,Healthy,Dosed
+86.2713,72.6307,Female,Healthy,Not Dosed
+16.067,194.9326,Female,Diseased,Dosed
+24.59,194.9326,Female,Diseased,Not Dosed
+88.5294,194.9326,Female,Healthy,Dosed
+95.8785,194.9326,Female,Healthy,Not Dosed
+21.5888,107.1649,Female,Diseased,Dosed
+26.3104,107.1649,Female,Diseased,Not Dosed
+88.6396,107.1649,Female,Healthy,Dosed
+98.1481,107.1649,Female,Healthy,Not Dosed
+18.1142,141.7554,Female,Diseased,Dosed
+27.6843,141.7554,Female,Diseased,Not Dosed
+75.5293,141.7554,Female,Healthy,Dosed
+61.1703,141.7554,Female,Healthy,Not Dosed
+24.8909,201.5134,Female,Diseased,Dosed
+40.264,201.5134,Female,Diseased,Not Dosed
+96.8704,201.5134,Female,Healthy,Dosed
+91.1108,201.5134,Female,Healthy,Not Dosed
+23.8756,234.2516,Female,Diseased,Dosed
+29.6631,234.2516,Female,Diseased,Not Dosed
+83.9164,234.2516,Female,Healthy,Dosed
+114.6367,234.2516,Female,Healthy,Not Dosed
+30.8606,89.0606,Female,Diseased,Dosed
+31.6418,89.0606,Female,Diseased,Not Dosed
+72.3209,89.0606,Female,Healthy,Dosed
+108.382,89.0606,Female,Healthy,Not Dosed
+49.6142,249.1675,Female,Diseased,Dosed
+15.3,249.1675,Female,Diseased,Not Dosed
+93.6526,249.1675,Female,Healthy,Dosed
+102.0548,249.1675,Female,Healthy,Not Dosed
+19.3482,208.7408,Female,Diseased,Dosed
+26.5045,208.7408,Female,Diseased,Not Dosed
+80.3668,208.7408,Female,Healthy,Dosed
+79.2729,208.7408,Female,Healthy,Not Dosed
+16.6519,159.7313,Female,Diseased,Dosed
+27.1434,159.7313,Female,Diseased,Not Dosed
+98.5301,159.7313,Female,Healthy,Dosed
+83.1812,159.7313,Female,Healthy,Not Dosed
+16.928,151.1577,Female,Diseased,Dosed
+24.2327,151.1577,Female,Diseased,Not Dosed
+135.7539,151.1577,Female,Healthy,Dosed
+70.8895,151.1577,Female,Healthy,Not Dosed
+25.2739,149.6507,Female,Diseased,Dosed
+57.0543,149.6507,Female,Diseased,Not Dosed
+78.9629,149.6507,Female,Healthy,Dosed
+64.3359,149.6507,Female,Healthy,Not Dosed
+16.2838,143.8948,Female,Diseased,Dosed
+23.4587,143.8948,Female,Diseased,Not Dosed
+110.4406,143.8948,Female,Healthy,Dosed
+85.727,143.8948,Female,Healthy,Not Dosed
+29.4194,165.8514,Female,Diseased,Dosed
+12.1623,165.8514,Female,Diseased,Not Dosed
+118.3519,165.8514,Female,Healthy,Dosed
+71.1683,165.8514,Female,Healthy,Not Dosed
+5.3798,167.7529,Female,Diseased,Dosed
+22.6675,167.7529,Female,Diseased,Not Dosed
+87.8839,167.7529,Female,Healthy,Dosed
+81.5519,167.7529,Female,Healthy,Not Dosed
+44.8058,219.9105,Female,Diseased,Dosed
+38.2791,219.9105,Female,Diseased,Not Dosed
+99.5261,219.9105,Female,Healthy,Dosed
+66.9736,219.9105,Female,Healthy,Not Dosed
+9.0055,267.0961,Female,Diseased,Dosed
+12.5532,267.0961,Female,Diseased,Not Dosed
+85.3836,267.0961,Female,Healthy,Dosed
+66.9374,267.0961,Female,Healthy,Not Dosed
+24.3127,195.7327,Female,Diseased,Dosed
+37.1736,195.7327,Female,Diseased,Not Dosed
+82.3839,195.7327,Female,Healthy,Dosed
+99.4559,195.7327,Female,Healthy,Not Dosed
+9.8462,150.1821,Female,Diseased,Dosed
+22.1007,150.1821,Female,Diseased,Not Dosed
+76.0953,150.1821,Female,Healthy,Dosed
+123.2433,150.1821,Female,Healthy,Not Dosed
+14.7134,206.3878,Female,Diseased,Dosed
+17.7014,206.3878,Female,Diseased,Not Dosed
+92.7175,206.3878,Female,Healthy,Dosed
+103.495,206.3878,Female,Healthy,Not Dosed
+19.8497,176.6349,Female,Diseased,Dosed
+16.5168,176.6349,Female,Diseased,Not Dosed
+113.2455,176.6349,Female,Healthy,Dosed
+90.3487,176.6349,Female,Healthy,Not Dosed
